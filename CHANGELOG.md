@@ -1,5 +1,11 @@
 # changesets-test
 
+## 0.1.0
+
+### Minor Changes
+
+- dfe6d20: use better changelog
+
 ## 0.0.1
 
 ### Patch Changes
