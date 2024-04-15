@@ -1,5 +1,11 @@
 # changesets-test
 
+## 0.2.1-next-b0239738b239463f604cde5f9eca219161a4d492
+
+### Patch Changes
+
+- b023973: Some changes meant for a snapshot
+
 ## 0.2.0
 
 ### Minor Changes

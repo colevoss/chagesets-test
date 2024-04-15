@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@3.0.0/schema.json",
-  "changelog": [
+  "_changelog": [
     "@changesets/changelog-github",
     { "repo": "colevoss/chagesets-test" }
   ],
@@ -10,5 +10,9 @@
   "access": "restricted",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": []
+  "ignore": [],
+  "snapshot": {
+    "useCalculatedVersion": true,
+    "prereleaseTemplate": "{tag}-{commit}"
+  }
 }
