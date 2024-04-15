@@ -1,5 +1,12 @@
 # changesets-test
 
+## 0.3.1
+
+### Patch Changes
+
+- 8787681: A much longer changelog
+- c59b082: my patch change
+
 ## 0.3.0
 
 ### Minor Changes
