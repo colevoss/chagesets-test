@@ -1,0 +1,30 @@
+{
+  "changesets": [
+    {
+      "releases": [],
+      "summary": "",
+      "id": "curly-sloths-remain"
+    },
+    {
+      "releases": [
+        {
+          "name": "changesets-test",
+          "type": "patch"
+        }
+      ],
+      "summary": "A much longer changelog",
+      "id": "purple-shirts-smell"
+    }
+  ],
+  "releases": [
+    {
+      "name": "changesets-test",
+      "type": "patch",
+      "oldVersion": "0.3.0",
+      "changesets": [
+        "purple-shirts-smell"
+      ],
+      "newVersion": "0.3.1"
+    }
+  ]
+}
