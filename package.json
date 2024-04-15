@@ -1,6 +1,6 @@
 {
   "name": "changesets-test",
-  "version": "0.2.1-next-b0239738b239463f604cde5f9eca219161a4d492",
+  "version": "0.3.0",
   "description": "",
   "main": "index.js",
   "scripts": {
