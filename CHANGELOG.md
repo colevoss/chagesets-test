@@ -1,5 +1,15 @@
 # changesets-test
 
+## 0.3.0
+
+### Minor Changes
+
+- 08f4098: added some questions
+
+### Patch Changes
+
+- 08f4098: Added some excitement
+
 ## 0.2.1-next-b0239738b239463f604cde5f9eca219161a4d492
 
 ### Patch Changes
